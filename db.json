@@ -1,0 +1,16 @@
+{
+  "Products": [
+    {
+      "name": "polo-shirt",
+      "price": "1000",
+      "desc": "The beautiful range",
+      "id": 6
+    },
+    {
+      "name": "iphone",
+      "price": "1900",
+      "desc": "The beautiful range",
+      "id": 7
+    }
+  ]
+}
